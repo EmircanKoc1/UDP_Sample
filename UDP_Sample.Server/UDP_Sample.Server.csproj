@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\UDP_Sample.Shared\UDP_Sample.Shared.csproj" />
+  </ItemGroup>
+
 </Project>
